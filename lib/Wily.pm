@@ -38,7 +38,7 @@ use warnings;
 use Wily::RPC;
 use Wily::Message;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 =head2 Creating a Wily object
 
@@ -497,7 +497,7 @@ http://sam.holden.id.au/software/plwily/
 
 =head1 AUTHOR
 
-Sam Holden, E<lt>sholden@holden.id.auE<gt>
+Sam Holden, E<lt>sam@holden.id.auE<gt>
 
 =head1 COPYRIGHT AND LICENSE
 
